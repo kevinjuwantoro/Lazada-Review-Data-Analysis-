@@ -6,7 +6,7 @@ Explore the distribution of negative reviews across product categories (category
 Identify specific keywords in negative reviews, prioritize areas for improvement based on customer engagement metrics (likeCount, upVotes, downVotes, helpful), and consider additional factors such as total reviews (totalReviews), relevance scores (relevanceScore), purchase dates (boughtDate), customer types (clientType), and temporal trends (retrievedDate_y) to enhance the overall product quality, customer satisfaction, and user experience on the Lazada platform.
 
 ## Background
-![lazada.jpg](attachment:lazada.jpg)
+<img src = 'https://www.bca.co.id/-/media/Feature/Promo/Page/2023/12/20231204-lazada-bann.JPG?v=1'>
 Lazada is an international e-commerce company and one of the largest e-commerce operators in Southeast Asia. It was founded in 2012 by Maximilian Bittner with the intention of establishing an Amazon-like business model in the region. Lazada operates in six countries: Indonesia, Malaysia, the Philippines, Singapore, Thailand, and Vietnam. It offers a wide range of products across various categories, such as fashion, electronics, home and living, mother and baby, and health and beauty. It also has a virtual mall called LazMall, where consumers can shop from leading international and local brands.
 
 Lazada has a marketplace platform that allows third-party retailers to sell their products on its website and mobile apps. It also has a cross-border business that features homegrown brands and sellers from markets such as China, Hong Kong, Korea, Japan, the United States, and Europe. Lazada provides a full suite of services to its sellers, such as secure payment options, customer care support, marketing analytics, and logistics network.
